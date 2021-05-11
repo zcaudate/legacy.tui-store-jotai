@@ -39,7 +39,7 @@ function App(props){
 }
 
 // play.tui-store-basic.main/__init__
-// u7ojlla36ddf;
+// 1h7zrxgx20t43;
 b.run((
   <App></App>
   ),"JS Blessed Store Test");
