@@ -1,8 +1,6 @@
 import blessed from 'blessed'
 import reactBlessed from 'react-blessed'
 
-import js from './core'
-
 // js.blessed/createScreen
 function createScreen(title,options){
   const s = blessed.screen(Object.assign({
